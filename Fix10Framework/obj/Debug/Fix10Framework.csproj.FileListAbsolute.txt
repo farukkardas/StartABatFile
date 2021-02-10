@@ -1,0 +1,7 @@
+D:\Development\VisualStudio\C#\Visual Studio C#\Fix10Framework\Fix10Framework\bin\Debug\Fix10Framework.exe.config
+D:\Development\VisualStudio\C#\Visual Studio C#\Fix10Framework\Fix10Framework\bin\Debug\Fix10Framework.exe
+D:\Development\VisualStudio\C#\Visual Studio C#\Fix10Framework\Fix10Framework\bin\Debug\Fix10Framework.pdb
+D:\Development\VisualStudio\C#\Visual Studio C#\Fix10Framework\Fix10Framework\obj\Debug\Fix10Framework.csprojAssemblyReference.cache
+D:\Development\VisualStudio\C#\Visual Studio C#\Fix10Framework\Fix10Framework\obj\Debug\Fix10Framework.csproj.CoreCompileInputs.cache
+D:\Development\VisualStudio\C#\Visual Studio C#\Fix10Framework\Fix10Framework\obj\Debug\Fix10Framework.exe
+D:\Development\VisualStudio\C#\Visual Studio C#\Fix10Framework\Fix10Framework\obj\Debug\Fix10Framework.pdb
